@@ -16,11 +16,36 @@ Python: random, time, pygame (if GUI)
 
 Tools: Git, GitHub
   
-# Clone the repository
-git clone https://github.com/your-username/hangman-game.git
-
 # Navigate to the project
-cd hangman-game
+Hangman-Game.zip
 
 # Run the game (Python example)
 python hangman.py
+
+🎮 How to Play
+The game selects a random word and displays it as blanks (_ _ _ _).
+
+Guess letters one by one.
+
+Correct guesses reveal letters; wrong guesses add to the hangman.
+
+Win by guessing the word before the hangman is fully drawn!
+Project Structure
+plaintext
+Copy
+hangman-game/  
+├── hangman.py       # Main game logic  
+├── words.txt        # Word list  
+├── README.md        # Project documentation  
+└── LICENSE          # (Optional) Add MIT/GPL license  
+
+🔧 Possible Improvements
+Add a GUI (Tkinter, Pygame, or web interface).
+
+Fetch words from an API (e.g., Random Word Generator).
+
+Implement a multiplayer mode (socket programming).
+
+Add sound effects & animations.
+
+📜 License
