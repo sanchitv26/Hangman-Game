@@ -41,11 +41,8 @@ hangman-game/
 
 🔧 Possible Improvements
 Add a GUI (Tkinter, Pygame, or web interface).
-
 Fetch words from an API (e.g., Random Word Generator).
-
 Implement a multiplayer mode (socket programming).
-
 Add sound effects & animations.
 
-📜 License
+
