@@ -37,7 +37,7 @@ hangman-game/
 ├── hangman.py       # Main game logic  
 ├── words.txt        # Word list  
 ├── README.md        # Project documentation  
-└── LICENSE          # (Optional) Add MIT/GPL license  
+└── LICENSE          # (Optional) Add MIT/Eclipse license  
 
 🔧 Possible Improvements
 Add a GUI (Tkinter, Pygame, or web interface).
